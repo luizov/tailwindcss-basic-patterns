@@ -1,0 +1,24 @@
+{
+  "name": "tailwindcss-basic-patterns",
+  "version": "0.1.0",
+  "description": "Plugin for Tailwind CSS to create utility classes for SVG backgrounds",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizov/tailwindcss-basic-patterns.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "tailwindcss-plugin",
+    "tailwind-utility",
+    "patterns"
+  ],
+  "author": "Dimitar Luizov",
+  "license": "MIT",
+  "homepage": "https://github.com/luizov/tailwindcss-basic-patterns#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
