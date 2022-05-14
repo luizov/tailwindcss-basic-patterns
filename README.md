@@ -54,3 +54,9 @@ module.exports = {
   },
 };
 ```
+
+## Credits
+
+Basic Pattern Repository by Thomas Michael Semmler
+
+[https://patterns.helloyes.dev/](https://patterns.helloyes.dev/)
